@@ -8,7 +8,7 @@ Training Loss: 1.5019
 Validation Loss: 1.6789
 
 # Results
-The language model has been trained to generate text that resembles the writing style and language patterns found in "Na Drini Cuprija." However, it's important to note that the generated text may not always be coherent or grammatically correct.Here is the final example:
+The language model has been trained to generate text that resembles the writing style and language patterns found in "Na Drini Cuprija." However, it's important to note that the generated text may not always be coherent or grammatically correct.Here is the final example of the results:
 
 и два је ово исрачко ликоно, и роше кроз Гласинчачку овог кафенцига и вишећи
 одговору заустављење. Видићи косој имави у хоте; својим Мердаг човека касабалија њему и самбо је и
